@@ -41,4 +41,5 @@ Future experiments could explore a broader range of algorithms with HyperDriver,
 
 ## Proof of cluster clean up
 The computer cluster used for trainig was deleted after completing the experiments to avoid unnecessary resource usage and costs.
-**Image of cluster marked for deletion**
+<img width="566" height="283" alt="image" src="https://github.com/user-attachments/assets/72fa52f0-cea1-40c2-abb8-706995588821" />
+
